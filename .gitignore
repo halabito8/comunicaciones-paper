@@ -1,0 +1,8 @@
+*/__pycache__
+__pycache__
+__pycache__/*
+*/__pycache__/*
+env
+db.sqlite3
+mordi2/__pycache__/
+redsocial/migrations
